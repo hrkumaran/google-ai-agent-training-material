@@ -70,5 +70,19 @@ Want to have an interactive conversation? Try adding the whitepapers to Notebook
 
 This whitepaper addresses the challenge of assuring quality in Al agents by introducing a holistic evaluation framework. The necessary technical foundation for this is Observability, built on three pillars: Logs (the diary), Traces (the narrative), and Metrics (the health report), enabling a continuous feedback loop using scalable methods like LLM-as-a-Judge and Human-in-the-Loop (HITL) evaluation.  
 
+Day 5
+Complete Unit 5 - “Prototype to Production”:
+
+Listen to the summary podcast episode for this unit.
+To complement the podcast, read the “Prototype to Production” whitepaper.
+Complete these codelabs on Kaggle:
+Explore how to use Agent2Agent (A2A) Protocol to have agents interact with each other. 
+[Optional] Deploy your agent to Agent Engine on Google Cloud.
+💡 What You’ll Learn
+
+This whitepaper provides a technical guide to the operational lifecycle of AI agents, focusing on deployment, scaling and productionization. It explores the challenges of transitioning agentic systems from prototypes to enterprise-grade solutions, with special attention to A2A Protocol.  
+
+For today's codelabs, you'll learn how to build systems of multiple, independent agents that can communicate and collaborate using A2A Protocol. You'll also learn how to take your agent from your local machine to a production-ready, scalable service, by deploying your agent to Vertex AI Agent Engine on Google Cloud.
+
 For today's codelabs, you'll learn how to use logs, traces, and metrics to get full visibility into your agent's decision-making process, allowing you to debug failures and understand why your agent behaves the way it does. In the second codelab, you'll learn how to evaluate your agents to score your agent's response quality and tool usage.
 
